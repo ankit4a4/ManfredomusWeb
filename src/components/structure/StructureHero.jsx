@@ -1,5 +1,5 @@
 import React from 'react'
-import img from "../../assets/structure/esterno (7).jpg"
+import img from "../../assets/structure/rooms[1].jpg"
 
 const StructureHero = () => {
     return (
@@ -12,7 +12,7 @@ const StructureHero = () => {
                 <div className="absolute inset-0 bg-[#00000093] "></div>
                 <div className="relative z-10 text-center px-4">
                     <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-                        Structure
+                        Our Rooms
                     </h1>
                 </div>
             </section>
