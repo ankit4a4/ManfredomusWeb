@@ -1,0 +1,16 @@
+:root {
+  color: black;
+  font-weight: 400;
+}
+.slick-dots li button:before {
+  color: #000 !important;
+  font-size: 24px;
+}
+.slick-dots li.slick-active button:before {
+  color: #000 !important;
+}
+.slick-prev:before,
+.slick-next:before {
+  color: #000 !important;
+  font-size: 24px;
+}

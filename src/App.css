@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+.WidgetBackground__ContentContainer-sc a:nth-last-child(1) {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  :root {
+    overflow-x: hidden;
+  }
+
+  body {
+    width: 100vw;
+    overflow-x: hidden;
+  }
+}
