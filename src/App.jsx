@@ -15,8 +15,6 @@ import FeedBack from './pages/FeedBack';
 import ContactUs from './pages/ContactUs';
 
 function App() {
-
-
   return (
     <>
       <BrowserRouter>

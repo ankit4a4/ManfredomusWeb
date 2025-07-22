@@ -30,15 +30,8 @@ const SectionThree = () => {
                         <div data-aos="fade-up">
 
                             <p className="text-lg text-gray-700 leading-relaxed mb-6">
-                                WManfredomus is proud to offer sustainable accommodation in Sicily countryside, designed with a deep respect for nature and tradition. From the use of renewable energy sources to local and organic produce served at breakfast, every aspect of the stay supports eco-friendly living. The interiors are tastefully decorated with reclaimed wood and natural fabrics, echoing the tones of the surrounding landscape.
-
-
+                               Manfredomus is proud to offer sustainable accommodation in Sicily countryside, designed with a deep respect for nature and tradition. From the use of renewable energy sources to local and organic produce served at breakfast, every aspect of the stay supports eco-friendly living. The interiors are tastefully decorated with reclaimed wood and natural fabrics, echoing the tones of the surrounding landscape. This sustainable accommodation in Sicily countryside is a haven for environmentally-conscious travelers. Guests are encouraged to participate in green practices such as waste reduction, water conservation, and exploring the nearby countryside on foot or bicycle. The peaceful surroundings promote a slower pace of life, offering a unique opportunity to reconnect with nature and self.
                             </p>
-                            <p className="text-lg text-gray-700 leading-relaxed mb-8">
-                                This sustainable accommodation in Sicily countryside is a haven for environmentally-conscious travelers. Guests are encouraged to participate in green practices such as waste reduction, water conservation, and exploring the nearby countryside on foot or bicycle. The peaceful surroundings promote a slower pace of life, offering a unique opportunity to reconnect with nature and self.
-                            </p>
-
-
                         </div>
                     </div>
                 </div>
